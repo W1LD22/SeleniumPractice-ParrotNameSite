@@ -1,0 +1,48 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29863d60_002D6bbc_002D472b_002Db69b_002D2c879a1999fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ParrotNameSite_EmptyEmailInput_ShowError" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.ParrotNameSiteTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ab990d0_002D7ae1_002D4993_002D940a_002D7f51f1447576/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParrotNameSite_Tab" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_Tab&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3d6cfa86_002Ddb34_002D439a_002Db9dc_002Dc2d79144bec5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParrotNameSite_FillFormWithGenderBoyAndEmail_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_FillFormWithGenderBoyAndEmail_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EnterValidEmails_RequestSent&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4520a825_002D2d89_002D4ba2_002Db2aa_002D056bf2462435/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParrotNameSite_FillForm_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_FillFormWithGenderBoyAndEmail_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_FillFormWithGenderGirlAndEmail_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_ClickAnotherEmail_EmailInputIsEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EnterValidEmails_RequestSent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_SelectGenderGirlRadioButtonByLabel_RadioButtonSwitched&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_Tab&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a976346_002Ddc4b_002D4aa7_002D86ee_002D6745064ff18e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParrotNameSite_Tab #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_Tab&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EnterValidEmails_RequestSent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_FillFormEmailAndPressEnter_RequestSent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_SelectGenderGirlRadioButtonByLabel_RadioButtonSwitched&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EnterInvalidEmails_RequestSent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EnterInvalidEmails_ShowError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EmptyEmailInput_ShowError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_FillFormWithGenderBoyAndEmail_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_FillFormWithGenderGirlAndEmail_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_ClickAnotherEmail_EmailInputIsEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5d1238f0_002D2c5d_002D4fac_002Daeea_002D8c84beb0ec50/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParrotNameSite_EnterValidEmails_RequestSent" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EnterValidEmails_RequestSent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EnterInvalidEmails_ShowError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6FD2F275-59B0-434B-A525-76332E428187::.NETFramework,Version=v4.7.2::ClassLibrary7.PracticeTests.ParrotNameSite_EmptyEmailInput_ShowError&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

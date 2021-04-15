@@ -1,0 +1,14 @@
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\chromedriver.exe
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\ClassLibrary7.dll
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\ClassLibrary7.pdb
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\nunit.framework.dll
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\WebDriver.dll
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\WebDriver.Support.dll
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\nunit.framework.xml
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\WebDriver.xml
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\bin\Debug\WebDriver.Support.xml
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\obj\Debug\SeleniumPractice.csprojAssemblyReference.cache
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\obj\Debug\SeleniumPractice.csproj.CoreCompileInputs.cache
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\obj\Debug\SeleniumPractice.csproj.CopyComplete
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\obj\Debug\ClassLibrary7.dll
+C:\Users\hokag\source\repos\ClassLibrary7\ClassLibrary7\obj\Debug\ClassLibrary7.pdb
